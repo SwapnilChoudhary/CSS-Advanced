@@ -23,8 +23,8 @@
 }
 
 .profile-img {
-  height: 100px;
   border-radius: 50%;
+  height: 100px;
 }
 
 li.nav-item {
@@ -34,24 +34,5 @@ li.nav-item {
 #features div > div {
   justify-content: space-evenly;
 }
-#testimonial {
-  translate: 100px;
-    .dog{
-        height: 150px;
-        margin-top: 15px;
-        margin-bottom: 10px;
-        border-radius: 50%;
-        translate: 580px;
-    }
-    p{translate: 590px;}
-    .logo {
-      display: grid;
-      grid-template-columns:repeat(4, 1fr);
-      grid-template-rows: 1fr;
-      
-    }
-}
 
-#title {
-  display: grid;
-}
+
