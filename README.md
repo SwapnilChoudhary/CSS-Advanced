@@ -26,3 +26,9 @@ It has the power for re-positioning. It helps us to determine the changes within
 These bandwidth savings are substantial figures of insignificant tags that are indistinct from a mess of pages.
 Easy for the user to customize the online page
 It reduces the file transfer size.
+
+Adaptive web design is especially developed to adjust to size of browser or screen. In adaptive web designing, different website layouts are created to fit best to specific screen sizes of different devices. 
+
+Basically, two versions of websites are generally created, one is created for small screen i.e., mobile version and other one is created for large screen i.e., desktop version. Mobile versions are used for smartphones, tablets, etc., and desktop versions are used for laptop, desktop. Website or server detect size of device screen and then choose website layout that fit best on device screen. 
+
+Choosing right website design will lead to better performance and positive result because different business has different needs and requirements. Therefore, before choosing any web design, determine what are your needs and web design can be beneficial or not.
